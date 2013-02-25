@@ -3,9 +3,11 @@
   <groupId>com.piotrga</groupId>
   <artifactId>codahale_jerkson_2.10</artifactId>
   <versioning>
+    <release>0.7.0</release>
     <versions>
       <version>0.7.0-SNAPSHOT</version>
+      <version>0.7.0</version>
     </versions>
-    <lastUpdated>20130225122824</lastUpdated>
+    <lastUpdated>20130225123840</lastUpdated>
   </versioning>
 </metadata>
